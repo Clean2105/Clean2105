@@ -1,0 +1,41 @@
+1. Nhóm xử lý dữ liệu và tính toán cơ bản
+• NumPy: Thư viện cốt lõi cho tính toán số học, hỗ trợ mảng (array) nhiều chiều và ma trận với tốc độ rất nhanh.
+• Pandas: Thư viện chuyên dùng để thao tác và phân tích dữ liệu dạng bảng thông qua cấu trúc DataFrame và Series.
+• SciPy: Mở rộng từ NumPy, cung cấp các hàm toán học nâng cao, tích phân, đại số tuyến tính và xử lý tín hiệu
+
+2. Nhóm trực quan hóa dữ liệu (Data Visualization)
+• Matplotlib: Thư viện nền tảng để vẽ các biểu đồ tĩnh, động và tương tác cơ bản trong Python.
+• Seaborn: Xây dựng dựa trên Matplotlib, giúp tạo ra các biểu đồ thống kê đẹp mắt và trực quan hơn với ít dòng lệnh hơn.
+
+3. Nhóm Học máy (Machine Learning) và Thống kê
+• Scikit-learn: Thư viện phổ biến nhất cho Machine Learning cổ điển (hồi quy, phân loại, phân cụm, xử lý dữ liệu...).
+• Statsmodels: Dùng cho phân tích thống kê chuyên sâu và kiểm định giả thuyết kinh tế - xã hội.
+
+4. Nhóm Học sâu (Deep Learning) và AI
+• TensorFlow (kèm Keras): Khung mã nguồn mở mạnh mẽ của Google dùng để xây dựng và huấn luyện mạng nơ-ron sâu.
+• PyTorch: Khung học sâu rất được ưa chuộng bởi cộng đồng nghiên cứu nhờ tính linh hoạt cao và dễ gỡ lỗi (debugging).
+
+5. Nhóm Trực quan hóa dữ liệu tương tác (Interactive Visualization)
+• Plotly: Giúp tạo ra các biểu đồ tương tác cao (có thể phóng to, thu nhỏ, di chuột xem data) thích hợp cho báo cáo web.
+• Bokeh: Chuyên dùng để xây dựng các biểu đồ tương tác lớn, có độ tùy biến cao cho các trình duyệt web hiện đại.
+• Altair: Thư viện trực quan hóa dữ liệu mang tính khai báo (declarative), giúp vẽ biểu đồ nhanh và logic dựa trên cấu trúc dữ liệu.
+
+6. Nhóm Thu thập và Trích xuất dữ liệu (Data Scraping)
+• BeautifulSoup: Thư viện cực kỳ phổ biến để cào (scrape) dữ liệu từ các tệp HTML và XML của các trang web.
+• Scrapy: Một framework mạnh mẽ, toàn diện giúp trích xuất dữ liệu từ website một cách tự động và có hệ thống với tốc độ cao.
+• Selenium: Công cụ tự động hóa trình duyệt, rất mạnh khi cần cào dữ liệu từ các trang web động sử dụng nhiều JavaScript.
+
+7. Nhóm Xử lý ngôn ngữ tự nhiên (NLP) và Văn bản
+• NLTK (Natural Language Toolkit): Thư viện nền tảng và lâu đời cho các tác vụ xử lý ngôn ngữ tự nhiên cơ bản.
+• SpaCy: Thư viện NLP thế hệ mới với tốc độ xử lý cực nhanh, tối ưu hóa tốt cho môi trường sản phẩm thực tế (production).
+• Hugging Face (Transformers): Cung cấp hàng ngàn mô hình AI tiên tiến (SOTA) đã được huấn luyện sẵn (như BERT, GPT) cho các tác vụ NLP phức tạp.
+
+8. Nhóm Xử lý ảnh và Thị giác máy tính (Computer Vision)
+• OpenCV (cv2): Thư viện mã nguồn mở hàng đầu thế giới về xử lý ảnh, video và các bài toán thị giác máy tính theo thời gian thực.
+• Pillow (PIL): Thư viện đơn giản, nhẹ nhàng dùng để mở, thao tác và lưu trữ nhiều định dạng tệp hình ảnh khác nhau.
+
+9. Nhóm Xử lý dữ liệu lớn (Big Data) và Tự động hóa Machine Learning (AutoML)
+• PySpark: Giao diện Python dành cho Apache Spark, giúp xử lý và phân tích các tập dữ liệu khổng lồ (Big Data) trên các hệ thống phân tán.
+• Dask: Giúp mở rộng quy mô tính toán của NumPy, Pandas và Scikit-learn lên kiến trúc đa nhân (multi-core) hoặc máy tính phân tán.
+• LightGBM: Thư viện tăng cường độ dốc (Gradient Boosting) của Microsoft, nổi tiếng với tốc độ huấn luyện nhanh và hiệu năng cao trong các cuộc thi Kaggle.
+• Optuna: Thư viện tự động hóa việc tối ưu hóa siêu tham số (hyperparameter tuning) cho các mô hình Machine Learning cực kỳ thông minh và hiệu quả.  
